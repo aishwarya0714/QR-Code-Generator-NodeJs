@@ -1,7 +1,7 @@
 # QR-Code-Generator-NodeJs
-QR Code generator using NodeJs framework 
+QR Code generator using NodeJs
 
-# Framework: NodeJs
+# NodeJs
 
 # Packages:
 1.	Inquirer: - Allows us to take input from user.
