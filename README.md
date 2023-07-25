@@ -19,6 +19,8 @@ QR Code generator using NodeJs framework
 5. Create a text file to save the user input using native fs node module.
    https://nodejs.org/dist/latest-v18.x/docs/api/fs.html#fsreadfilepath-options-callback
 
+   #check out above code☝️
+
    
 
 
